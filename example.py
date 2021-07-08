@@ -1,2 +1,0 @@
-print("Yuriy")
-print("Victoria")
